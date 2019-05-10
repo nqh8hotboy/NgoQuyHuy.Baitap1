@@ -297,8 +297,8 @@ void menu()
         printf("\n \t 4. Ds sv co diem thap nhat");
         printf("\n \t 5. Sap xep ds: selection sort");
         printf("\n \t 6. Sap xep ds: interchange sort");
-		printf("\n \t 7. Sap xep ds: merge sort");
-		printf("\n \t 0. Huy thao tac dang thuc hien va hien lai menu");
+	printf("\n \t 7. Sap xep ds: merge sort");
+	printf("\n \t 0. Huy thao tac dang thuc hien va hien lai menu");
         printf("\n \tNhap cac so de thuc hien thao tac!"); 
         chon=getch();
         switch(chon)
