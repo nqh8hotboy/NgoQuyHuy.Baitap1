@@ -1,4 +1,4 @@
-# NgoQuyHuy.Baitap1. S20-K59TH. MSSV: 1751060671
+// NgoQuyHuy.Baitap1. S20-K59TH. MSSV: 1751060671
 BaiTap1
 #include <conio.h>
 #include <stdio.h>
