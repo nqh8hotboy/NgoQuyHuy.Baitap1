@@ -307,9 +307,9 @@ void menu()
             case '2': {xuat(L); break;}
             case '3': {maxdiem(L); break;}
             case '4': {mindiem(L); break;}
-            case '5': {selectionsort(L);printf("\nDs sau khi sap xep theo seclection sort: "); xuat(L); break;}
-			case '6': {interchangesort(L);printf("\nDs sau khi sap xep theo interchange sort: "); xuat(L); break;}
-			case '7': {listmergesort(L);printf("\nDs sau khi sap xep theo merge sort: "); xuat(L); break;}
+	    case '5': {selectionsort(L);printf("\nDs sau khi sap xep theo seclection sort: "); xuat(L); break;}
+	    case '6': {interchangesort(L);printf("\nDs sau khi sap xep theo interchange sort: "); xuat(L); break;}
+	    case '7': {listmergesort(L);printf("\nDs sau khi sap xep theo merge sort: "); xuat(L); break;}
             case '0': exit(1);
             default: printf("\nNhap lai.");
         }
